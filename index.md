@@ -6,6 +6,12 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
+## CV Link
+- **Google Drive**<a href="">[Link]</a>
+
+## Education Background
+- **xxx school**
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
