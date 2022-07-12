@@ -10,7 +10,10 @@ I am a Ph.D. student at ...
 - **Google Drive**<a href="">[Link]</a>
 
 ## Education Background
-- **xxx school**
+- **09.2021 - 07.2022，Masters Student (Current) ，World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
+- **03.2019 - 03.2021，Masters of Industrial Economics  (Non-degree Post-Graduate Certificatein), Finance and Economics,
+University of Chinese Academy of Social Sciences, Beijing, China**
+- **09.2004 - 06.2008，Bachelors of International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
 
 ## Research Interests
 
