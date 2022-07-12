@@ -19,8 +19,11 @@ University of Chinese Academy of Social Sciences, Beijing, China**
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Macroeconomics** 
+- **International Trade**
+- **Development and Environmental Economics**
+- **Public Economics**
+- **Experimental macroeconomics**
 
 ## News
 
