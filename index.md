@@ -37,15 +37,17 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   International Relations: History, Theory, Practice. **ISBN 978-985-881-266-9, 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] 
+  [[PDF](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf)] 
 
 - **Risk Analysis and of Commercial Banks' Personal Housing Loans and Preventive Measures**
   <br>
   **HUANG YAN**
   <br>
-  CHINA CIRCULATION ECONOMY. **ISSN 2096-3157 (2019) 25 - DOI : 10.16834/j.cnki.issn1009-5292.2019.25.068**.
+  CHINA CIRCULATION ECONOMY. **ISSN 2096-3157 (2019) 258**.
   <br>
-  [[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf))] 
+  DOI : 10.16834/j.cnki.issn1009-5292.2019.25.06
+  <br>
+  [[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16834/j.cnki.issn1009-5292.2019.25.068)]
 
 ## Employment
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
