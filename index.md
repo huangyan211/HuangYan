@@ -6,14 +6,11 @@ layout: homepage
 
 Welcome to my webpage! 
 
-I am a Masters Student at Belarusian State University.
+I am a Masters Student at Belarusian State University. My primary research interests are in economics and applied macroeconometrics. More broadly, I am interested in how people form beliefs in an information-rich, attention-scarce world, and how those beliefs influence economic outcomes. 
 
-My primary research interests are in economics and applied macroeconometrics. More broadly, I am interested in how people form beliefs in an information-rich, attention-scarce world, and how those beliefs influence economic outcomes. 
-
-I take an application-oriented research approach, focusing on real-world data problems. My goal is to investigate the impact of preferences, personalities, and decisions on economic, health, labor market, and environmental outcomes using bounded rationality methods. These are statistically significant and practically relevant questions.
-
-I believe that innovative research is about bringing together people and ideas. 
-My vision is for all people to have an equal opportunity to choose, plan, and manage their own lives and communities, to have a local influence, and to understand the games and trade-offs involved in solving social and business problems, as well as economic, national, and global development, including social and environmental sustainability. Simultaneously, academics can promote innovative thinking on (the causes and consequences of inequality) and the frontier of (economics) research.
+I believe that innovative research is about bringing together people and ideas. My goal is to investigate the impact of preferences, personalities, and decisions on economic, health, labor market, and environmental outcomes using bounded rationality methods. These are statistically significant and practically relevant questions.
+ 
+My vision is for all people to have an equal opportunity to choose, plan, and manage their own lives and communities, to have a local influence, and to understand the games and trade-offs involved in solving social and business problems, as well as economic, national, and global development, including social and environmental sustainability. 
 
 ## CV Link
 - **Google Drive**<a href="">[Link]</a>
@@ -52,14 +49,16 @@ University of Chinese Academy of Social Sciences, Beijing, China**
 
 ## Employment
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
-•  Sales, Marketing Department, Responsible for marketing of credit cards and loans.
-•  Researcher, Research department, Responsible for researching credit policies and trends, as well as exploring competitive credit options.
-•  Post-loan manager, Risk Management Department, Responsible for post-loan management, including defaulter collection.
+- **Sales, Marketing Department, Responsible for marketing of credit cards and loans.
+- **Researcher, Research department, Responsible for researching credit policies and trends, as well as exploring competitive credit options.
+- **Post-loan manager, Risk Management Department, Responsible for post-loan management, including defaulter collection.
 
 ## Skills
-•  Strong writing ability (TOEFL 105/120, Writing 29/30)
-•  Strong presentation skills demonstrated through course experience
-•  Strong logical ability, as well as good communication and teamwork skills
-•  Adaptability to foreign cultures and living abroad experience
-•  Stata, Python
+- **Stata, Python
+- **Strong writing ability (TOEFL 105/120, Writing 29/30)
+- **Strong presentation skills demonstrated through course experience
+- **Strong logical ability
+- **Good communication and teamwork
+- **Adaptability to foreign cultures and living abroad experience
+
 
