@@ -50,9 +50,12 @@ University of Chinese Academy of Social Sciences, Beijing, China**
 
 ## Employment
 - **05.2022 - 07.2022, LLC “Crisis management model”, Belarus**
-- Data Analytics, Research department. 
-- Evaluating the company's competitive position, financial indicators, and financial position using SWOT and Porter's Five Forces Analysis Model
-- Contract drafting and tender document production for the company.
+  <br>
+  Data Analytics, Research department. 
+  <br>
+  Evaluating the company's competitive position, financial indicators, and financial position using SWOT and Porter's Five Forces Analysis Model
+  <br>
+  Contract drafting and tender document production for the company.
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
 - Sales, Marketing Department, Responsible for marketing of credit cards and loans.
 - Researcher, Research department, Responsible for researching credit policies and trends, as well as exploring competitive credit options.
