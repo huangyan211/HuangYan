@@ -45,7 +45,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   **HUANG YAN**
   <br>
-  **.CHINA CIRCULATION ECONOMY**. **ISSN 2096-3157 (2019) 258**.
+  **CHINA CIRCULATION ECONOMY**. **ISSN 2096-3157 (2019) 258**.
   <br>
   DOI : 10.16834/j.cnki.issn1009-5292.2019.25.06
   <br>
