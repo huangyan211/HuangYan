@@ -53,16 +53,16 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   Data Analytics, Research Department
   <br>
-  Evaluating competitive position, financial indicators, and financial position using SWOT and Porter's Five Forces Analysis Model
+  Responsible for evaluating competitive position, financial indicators, and financial position
   <br>
-  Contract drafting and tender document production for the company
+  Responsible for contract drafting and tender document production for the company
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
   <br>
-  Sales, Marketing Department, Responsible for marketing of credit cards and loans
+  Sales, Marketing Department. Responsible for marketing of credit cards and loans
   <br>
-  Researcher, Research Department, Responsible for researching credit policies and trends, as well as exploring competitive credit options
+  Researcher, Research Department. Responsible for researching credit policies and trends, as well as exploring competitive credit options
   <br>
-  Post-loan manager, Risk Management Department, Responsible for post-loan management, including defaulter collection
+  Post-loan manager, Risk Management Department. Responsible for post-loan management, including defaulter collection
 
 ## Skills
 - Stata, Python
