@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.platform = Gem::Platform::RUBY
   s.required_ruby_version = '~> 2.4'
-  s.add_runtime_dependency 'My', '> 3.5', '< 5.0'
+  s.add_runtime_dependency 'HUANG YAN', '> 3.5', '< 5.0'
   s.add_runtime_dependency 'HUANG YAN-seo-tag', '~> 2.0'
   s.add_development_dependency 'html-proofer', '~> 3.0'
   s.add_development_dependency 'rubocop', '~> 0.50'
