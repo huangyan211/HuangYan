@@ -6,11 +6,11 @@ layout: homepage
 
 Welcome to my webpage! 
 
-I am a Masters Student at Belarusian State University.  My primary research interests are in economics and applied macroeconometrics. More broadly, I am interested in how people form beliefs in an information-rich, attention-scarce world, and how those beliefs influence economic outcomes. 
+My research interests are in economics and applied macroeconometrics. More broadly, I am interested in how people form beliefs in an information-rich world, and how those beliefs influence economic outcomes. 
 
-My goal is to investigate the impact of preferences, personalities, and decisions on economic, health, labor market, and environmental outcomes using bounded rationality methods.  These are statistically significant and practically relevant questions.
+My goal is to investigate the impact of preferences, personalities, and decisions on economic, health, labor market, and environmental outcomes using bounded rationality methods to solve problems,such as social and business, economic and environmental sustainability. 
  
-My vision is for all people to have an equal opportunity to choose, plan, and manage their own lives and communities, to have a local influence, and to understand the games and trade-offs involved in solving social and business problems, as well as economic, national, and global development, including social and environmental sustainability. 
+My vision is for people to have an equal opportunity to manage their own lives. 
 
 ## Education Background
 - **09.2021 - 09.2022，Masters Student (Current) ，World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
