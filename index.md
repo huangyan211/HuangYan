@@ -35,7 +35,9 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   **HUANG YAN**
   <br>
-  International Relations: History, Theory, Practice. **ISBN 978-985-881-266-9, 2022**.
+   **International relations: history, theory, practice: materials of XII scientific-practical. conf. young scientists faculty. intl. relations Belarus. state un-ta, Minsk, 3 Feb. 2022. 
+   <br>
+  Belarus. state un-t; editorial board: E. A. Dostanko (editor-in-chief) [and others]. - Minsk: BSU, 2022. - S. 338-341.
   <br>
   [[PDF](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf)] 
 
