@@ -41,7 +41,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   [[PDF](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf)] 
 
-- **Risk Analysis and of Commercial Banks' Personal Housing Loans and Preventive Measures**
+- **“Risk Analysis and of Commercial Banks' Personal Housing Loans and Preventive Measures”**
   <br>
   **HUANG YAN**
   <br>
