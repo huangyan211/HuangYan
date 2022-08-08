@@ -35,7 +35,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   **HUANG YAN**
   <br>
-   **International relations: history, theory, practice: materials of XII scientific-practical. conf. young scientists faculty. intl. relations Belarus. state un-ta, Minsk, 3 Feb. 2022.**.
+   **International relations: history, theory, practice: materials of XII scientific-practical. conf. young scientists faculty. intl. relations Belarus. state un-ta, Minsk, 3 Feb. 2022**.
    <br>
   Belarus. state un-t; editorial board: E. A. Dostanko (editor-in-chief) [and others]. - Minsk: BSU, 2022. - S. 338-341.
   <br>
@@ -45,7 +45,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   **HUANG YAN**
   <br>
-  **.CHINA CIRCULATION ECONOMY.**. **ISSN 2096-3157 (2019) 258**.
+  **.CHINA CIRCULATION ECONOMY**. **ISSN 2096-3157 (2019) 258**.
   <br>
   DOI : 10.16834/j.cnki.issn1009-5292.2019.25.06
   <br>
