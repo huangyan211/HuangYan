@@ -37,7 +37,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   International Relations: History, Theory, Practice. **ISBN 978-985-881-266-9, 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] 
 
 - **Risk Analysis and of Commercial Banks' Personal Housing Loans and Preventive Measures**
   <br>
@@ -45,20 +45,20 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   CHINA CIRCULATION ECONOMY. **ISSN 2096-3157 (2019) 25 - DOI : 10.16834/j.cnki.issn1009-5292.2019.25.068**.
   <br>
-  [[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf))] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf))] 
 
 ## Employment
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
-- **Sales, Marketing Department, Responsible for marketing of credit cards and loans.
-- **Researcher, Research department, Responsible for researching credit policies and trends, as well as exploring competitive credit options.
-- **Post-loan manager, Risk Management Department, Responsible for post-loan management, including defaulter collection.
+- Sales, Marketing Department, Responsible for marketing of credit cards and loans.
+- Researcher, Research department, Responsible for researching credit policies and trends, as well as exploring competitive credit options.
+- Post-loan manager, Risk Management Department, Responsible for post-loan management, including defaulter collection.
 
 ## Skills
-- **Stata, Python
-- **Strong writing ability (TOEFL 105/120, Writing 29/30)
-- **Strong presentation skills demonstrated through course experience
-- **Strong logical ability
-- **Good communication and teamwork
-- **Adaptability to foreign cultures and living abroad experience
+- Stata, Python
+- Strong writing ability (TOEFL 105/120, Writing 29/30)
+- Strong presentation skills demonstrated through course experience
+- Strong logical ability
+- Good communication and teamwork
+- Adaptability to foreign cultures and living abroad experience
 
 
