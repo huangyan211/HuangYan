@@ -12,9 +12,6 @@ I believe that innovative research is about bringing together people and ideas. 
  
 My vision is for all people to have an equal opportunity to choose, plan, and manage their own lives and communities, to have a local influence, and to understand the games and trade-offs involved in solving social and business problems, as well as economic, national, and global development, including social and environmental sustainability. 
 
-## CV Link
-- **Google Drive**<a href="">[Link]</a>
-
 ## Education Background
 - **09.2021 - 09.2022，Masters Student (Current) ，World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
 - **03.2019 - 03.2021，Masters of Industrial Economics  (Non-degree Post-Graduate Certificatein), Finance and Economics,
