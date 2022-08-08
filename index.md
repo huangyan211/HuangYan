@@ -34,7 +34,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
 
 ## Publications
 
-- **“The China’s foreign economic activities”**
+- **“China's foreign trade achievements: internal and external factors”**
   <br>
   **HUANG YAN**
   <br>
@@ -48,7 +48,7 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   <br>
   CHINA CIRCULATION ECONOMY. **ISSN 2096-3157 (2019) 25 - DOI : 10.16834/j.cnki.issn1009-5292.2019.25.068**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://elib.bsu.by/bitstream/123456789/278697/1/338-341.pdf))] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
 ## Employment
 - **06.2008 - 08.2018，The Credit Card Center of Bank, China**
