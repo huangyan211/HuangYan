@@ -13,9 +13,9 @@ My goal is to investigate the impact of preferences, personalities, and decision
 My vision is for people to have an equal opportunity to manage their own lives. 
 
 ## Education Background
-- **09.2021 - 09.2022，M.Sc. World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
-- **03.2019 - 03.2021，Postgraduate Diploma in Industrial Economics, Faculty of Finance and Economics, University of Chinese Academy of Social Sciences, Beijing, China**
-- **09.2004 - 06.2008，B.Sc. International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
+- **09.2021 - 09.2022     M.Sc. World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
+- **03.2019 - 03.2021     Postgraduate Diploma in Industrial Economics, Faculty of Finance and Economics, University of Chinese Academy of Social Sciences, Beijing, China**
+- **09.2004 - 06.2008     B.Sc. International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
 
 ## Research Interests
 
@@ -60,20 +60,26 @@ My vision is for people to have an equal opportunity to manage their own lives.
   [[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16834/j.cnki.issn1009-5292.2019.25.068)]
 
 ## Employment
-- **2022          Data analyst (Internship)， LLC “Crisis management model”, Belarus**
+- **2022              Data analyst (Internship)， LLC “Crisis management model”, Belarus**
 - **2014 - 2018   Marketing manager,  Everbright Bank Nanning Branch Credit Card Center**
 - **2013 - 2014   Staff, Bank of Communications Nanning Branch Credit Card Center**
 - **2008 - 2012   Staff, Sanshui Southwest Branch of Guangdong Rural Credit Cooperatives**
 
 ## Other Research Projects and Thesis
-- **04.2021 - (in progress)  Research "Application of the Chinese digital economy to supply-side reform and its effects on the imbalance in income distribution" (No. KJCX17494, The Chinese Academy of Management Science， Apr 2021 to Apr 2023)   [Link]  **
-- **09.2022                  Master thesis "China's foreign trade policy and its effectiveness in the promotion of foreign trade" (grade: 9/10)**
-- **03.2021                  Postgraduate diploma thesis "The new characteristics and future development trend of the real estate industry under macro-control"**
+- **04.2021 - (in progress)       Research "Application of the Chinese digital economy to supply-side reform and its effects on the imbalance in income distribution" (No. KJCX17494, The Chinese Academy of Management Science)**
+- **09.2022                       Master thesis "China's foreign trade policy and its effectiveness in the promotion of foreign trade" (grade: 9/10)**
+- **03.2021                       Postgraduate diploma thesis "The new characteristics and future development trend of the real estate industry under macro-control"**
 
 ## Invited Presentations and Conference Participations
-- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model". The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
-- **10.2022       "Twenty-first international conference 《Belarus in the Modern World》"**
-- **02.2022       "China's foreign trade achievements: internal and external factors". The 12th Symposium on Science and Practice Conference"**
+- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model"
+ <br>
+ The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
+- **10.2022       "Belarus in the Modern World"
+- <br>
+- Twenty-first international conference**
+- **02.2022       "China's foreign trade achievements: internal and external factors"
+ <br>
+ The 12th Symposium on Science and Practice Conference**
 
 ## Skills
 - Excel, Matlab, Python, Spss, and Stata
