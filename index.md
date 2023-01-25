@@ -71,16 +71,19 @@ My vision is for people to have an equal opportunity to manage their own lives.
 - **03.2021                       Postgraduate diploma thesis "The new characteristics and future development trend of the real estate industry under macro-control"**
 
 ## Invited Presentations and Conference Participations
-- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model"
- <br>
- The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
-- **10.2022       "Belarus in the Modern World"
-- <br>
-- Twenty-first international conference**
-- **02.2022       "China's foreign trade achievements: internal and external factors"
- <br>
- The 12th Symposium on Science and Practice Conference**
-
+- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model"**
+<br>
+ **The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
+<br>
+- **10.2022       "Belarus in the Modern World"**
+<br>
+- **Twenty-first international conference**
+<br>
+- **02.2022       "China's foreign trade achievements: internal and external factors"**
+<br>
+ **The 12th Symposium on Science and Practice Conference**
+<br>
+ 
 ## Skills
 - Excel, Matlab, Python, Spss, and Stata
 - Strong writing ability (TOEFL 105; GRE 335 with AW 4.5)
