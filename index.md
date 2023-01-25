@@ -77,7 +77,7 @@ My vision is for people to have an equal opportunity to manage their own lives.
   <br>
 - **10.2022       "Belarus in the Modern World"**
   <br>
- **Twenty-first international conference**
+ **The Twenty-first international conference**
   <br>
 - **02.2022       "China's foreign trade achievements: internal and external factors"**
   <br>
