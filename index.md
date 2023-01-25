@@ -6,17 +6,16 @@ layout: homepage
 
 Welcome to my webpage! 
 
-My research interests are in economics and applied macroeconometrics. More broadly, I am interested in how people form beliefs in an information-rich world, and how those beliefs influence economic outcomes. 
+I am interested in applied macroeconomics. More broadly, I am interested in how people form beliefs in an information-rich world, and how those beliefs influence economic outcomes. 
 
 My goal is to investigate the impact of preferences, personalities, and decisions on economic, health, labor market, and environmental outcomes using bounded rationality methods to solve problems,such as social and business, economic and environmental sustainability. 
  
 My vision is for people to have an equal opportunity to manage their own lives. 
 
 ## Education Background
-- **09.2021 - 09.2022，Masters Student (Current) ，World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
-- **03.2019 - 03.2021，Masters of Industrial Economics  (Non-degree Post-Graduate Certificatein), Finance and Economics,
-University of Chinese Academy of Social Sciences, Beijing, China**
-- **09.2004 - 06.2008，Bachelors of International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
+- **09.2021 - 09.2022，M.Sc. World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
+- **03.2019 - 03.2021，Postgraduate Diploma in Industrial Economics, Faculty of Finance and Economics, University of Chinese Academy of Social Sciences, Beijing, China**
+- **09.2004 - 06.2008，B.Sc. International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
 
 ## Research Interests
 
@@ -28,6 +27,18 @@ University of Chinese Academy of Social Sciences, Beijing, China**
 
 ## Publications
 
+- **“Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model” 2022 (Accepted)**
+  <br>
+  **HUANG YAN**
+  <br>
+   **The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**.
+   <br>
+  
+- **“China's «Dual Circulation» policy : perspective of international of competition and cooperation” 2023 (Under review)**
+  <br>
+  **Huang Yan. & I. M. Aulasenka.**
+  <br>
+  
 - **“China's foreign trade achievements: internal and external factors”**
   <br>
   **HUANG YAN**
@@ -49,24 +60,24 @@ University of Chinese Academy of Social Sciences, Beijing, China**
   [[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16834/j.cnki.issn1009-5292.2019.25.068)]
 
 ## Employment
-- **05.2022 - 07.2022, LLC “Crisis management model”, Belarus**
-  <br>
-  Data Analytics, Research Department
-  <br>
-  Responsible for evaluating competitive position, financial indicators, and financial position
-  <br>
-  Responsible for contract drafting and tender document production for the company
-- **06.2008 - 08.2018，The Credit Card Center of Bank, China**
-  <br>
-  Sales, Marketing Department. Responsible for marketing of credit cards and loans
-  <br>
-  Researcher, Research Department. Responsible for researching credit policies and trends, as well as exploring competitive credit options
-  <br>
-  Post-loan manager, Risk Management Department. Responsible for post-loan management, including defaulter collection
+- **2022          Data analyst (Internship)， LLC “Crisis management model”, Belarus**
+- **2014 - 2018   Marketing manager,  Everbright Bank Nanning Branch Credit Card Center**
+- **2013 - 2014   Staff, Bank of Communications Nanning Branch Credit Card Center**
+- **2008 - 2012   Staff, Sanshui Southwest Branch of Guangdong Rural Credit Cooperatives**
+
+## Other Research Projects and Thesis
+- **04.2021 - (in progress)  Research "Application of the Chinese digital economy to supply-side reform and its effects on the imbalance in income distribution" (No. KJCX17494, The Chinese Academy of Management Science， Apr 2021 to Apr 2023)   [Link]  **
+- **09.2022                  Master thesis "China's foreign trade policy and its effectiveness in the promotion of foreign trade" (grade: 9/10)**
+- **03.2021                  Postgraduate diploma thesis "The new characteristics and future development trend of the real estate industry under macro-control"**
+
+## Invited Presentations and Conference Participations
+- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model". The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
+- **10.2022       "Twenty-first international conference 《Belarus in the Modern World》"**
+- **02.2022       "China's foreign trade achievements: internal and external factors". The 12th Symposium on Science and Practice Conference"**
 
 ## Skills
-- Stata, Python
-- Strong writing ability (TOEFL 105/120, Writing 29/30)
+- Excel, Matlab, Python, Spss, and Stata
+- Strong writing ability (TOEFL 105; GRE 335 with AW 4.5)
 - Strong presentation skills demonstrated through course experience
 - Strong logical ability
 - Good communication and teamwork
