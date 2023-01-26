@@ -14,7 +14,7 @@ My vision is for people to have an equal opportunity to manage their own lives.
 
 ## Education
 - **09.2021 - 09.2022     M.Sc. World Economics, Faculty of International Relations, Belarusian State University, Minsk, Belarus**
-- **03.2019 - 03.2021     Postgraduate Diploma in Industrial Economics, Faculty of Finance and Economics, University of Chinese Academy of Social Sciences, Beijing, China**
+- **03.2019 - 03.2021     Postgraduate Diploma in Industrial Economics, Faculty of Finance and Economics, Graduate School of Chinese Academy of Social Sciences, Beijing, China**
 - **09.2004 - 06.2008     B.Sc. International Economics and Trade, Faculty of  Economics and Management, Wuhan University (Donghu College), Wuhan, China**
 
 ## Research Interests
