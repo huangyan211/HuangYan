@@ -73,7 +73,7 @@ My vision is for people to have an equal opportunity to manage their own lives.
 ## Invited Presentations and Conference Participations
 - **02.2023       "China's «Dual Circulation» policy"**
   <br>
- **The XIII Scientific and Practical Conference of Young Scientists of the FMO "International Relations: History, Theory, Practice""**
+ **The XIII Scientific and Practical Conference of Young Scientists of the FMO "International Relations: History, Theory, Practice"**
   <br>
   
 - **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model"**
