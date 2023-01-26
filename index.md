@@ -71,8 +71,7 @@ My vision is for people to have an equal opportunity to manage their own lives.
 - **03.2021                       Postgraduate diploma thesis "The new characteristics and future development trend of the real estate industry under macro-control"**
 
 ## Invited Presentations and Conference Participations
-
-- **02.2023       "China's «Dual Circulation» policy" **
+- **02.2023       "China's «Dual Circulation» policy"**
   <br>
  **The XIII Scientific and Practical Conference of Young Scientists of the FMO "International Relations: History, Theory, Practice""**
   <br>
