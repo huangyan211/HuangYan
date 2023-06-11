@@ -32,13 +32,6 @@ My vision is for people to have an equal opportunity to manage their own lives.
   **Huang Yan. & I. M. Aulasenka.**
   <br>
   
-- **“Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model” 2022 (Accepted)**
-  <br>
-  **HUANG YAN**
-  <br>
-   **The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**.
-   <br>
-  
 - **“China's foreign trade achievements: internal and external factors”**
   <br>
   **HUANG YAN**
@@ -74,11 +67,6 @@ My vision is for people to have an equal opportunity to manage their own lives.
 - **02.2023       "China's «Dual Circulation» policy"**
   <br>
  **The XIII Scientific and Practical Conference of Young Scientists of the FMO "International Relations: History, Theory, Practice"**
-  <br>
-  
-- **12.2022       "Research on the application of computer big data artificial intelligence technology in financial institutions' digital sensitivity analysis economic risk model"**
-  <br>
- **The 2022 International Conference on Computer, Information, Automation and Artificial Intelligence Technology**
   <br>
   
 - **10.2022       "Belarus in the Modern World"**
